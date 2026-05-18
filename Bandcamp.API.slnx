@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Bandcamp.API/Bandcamp.API.csproj" />
+  <Project Path="Bandcamp.CLI/Bandcamp.CLI.csproj" />
+</Solution>
